@@ -1,4 +1,4 @@
-#Assignment 1: Submit a write-up on the following:
+# Assignment 1: Submit a write-up on the following:
 
 - Hugging face agents
 
@@ -10,21 +10,21 @@
 
 
 
-#Assignment 2: Using OpenAI's CLIP Model for Image Captioning and Building an Image Search Engine
+# Assignment 2: Using OpenAI's CLIP Model for Image Captioning and Building an Image Search Engine
 
-#Objective
+# Objective
 
-##In this assignment, you will use OpenAI's CLIP (Contrastive Language-Image Pre-training) model to:
+## In this assignment, you will use OpenAI's CLIP (Contrastive Language-Image Pre-training) model to:
 - Generate captions for 15 different images.
 - Build a search engine for these images using a larger dataset of images.
 
 
-##Part 1: Generate Captions for Images
+## Part 1: Generate Captions for Images
 
-##Part 2: Build an Image Search Engine
+## Part 2: Build an Image Search Engine
 
 
-##Submission
+## Submission
 Submit the following as a **Streamlit** app:
 
 - Your Python code for generating captions and building the search engine.
@@ -37,4 +37,4 @@ Evaluation Criteria
 - Clarity and completeness of the report.
 - Usability and functionality of the search engine interface.
 
-#Please don't use any Generative AI Models
+# Please don't use any Generative AI Models

@@ -8,13 +8,13 @@ HF inference endpoints
 Give feedback on the image generation and explore different models available on the Hugging Face website
 
 ## Assignment 2: Using OpenAI's CLIP Model for Image Captioning and Building an Image Search Engine
-Objective
-In this assignment, you will use OpenAI's CLIP (Contrastive Language-Image Pre-training) model to:
+### Objective
+### In this assignment, you will use OpenAI's CLIP (Contrastive Language-Image Pre-training) model to:
 Generate captions for 15 different images.
 Build a search engine for these images using a larger dataset of images.
-Part 1: Generate Captions for Images
-Part 2: Build an Image Search Engine
-Submission
+### Part 1: Generate Captions for Images
+### Part 2: Build an Image Search Engine
+### Submission
 Submit the following as a Streamlit app:
 
 Your Python code for generating captions and building the search engine.

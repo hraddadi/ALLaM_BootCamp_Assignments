@@ -1,4 +1,4 @@
-# Assignment 1: Submit a write-up on the following:
+# Q1: Submit a write-up on the following:
 
 - Hugging face agents
 
@@ -10,7 +10,7 @@
 
 
 
-# Assignment 2: Using OpenAI's CLIP Model for Image Captioning and Building an Image Search Engine
+# Q2: Using OpenAI's CLIP Model for Image Captioning and Building an Image Search Engine
 
 # Objective
 
